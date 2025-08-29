@@ -8,18 +8,38 @@ This repository explains how to use the **Red Light / Green Light** Telegram gam
 
 <p align="center">
   <a href="https://t.me/seyorisquidgamebot?startgroup=true"
-     style="display:inline-block;padding:10px 16px;background:#2ea44f;color:#fff;border-radius:8px;text-decoration:none;font-weight:600;margin-right:8px;">
+     style="display:inline-block;margin:8px 0;padding:12px 18px;
+            background:linear-gradient(180deg,#33d679,#2ea44f);
+            color:#fff;border:1px solid rgba(0,0,0,.08);
+            border-radius:10px;text-decoration:none;font-weight:700;
+            box-shadow:0 2px 0 rgba(0,0,0,.15), 0 6px 14px rgba(46,164,79,.25);
+            min-width:260px;text-align:center;">
     ➕ Add to Group
   </a>
+</p>
+<p align="center">
   <a href="https://t.me/seyorisquidgamebot"
-     style="display:inline-block;padding:10px 16px;background:#111827;color:#fff;border:1px solid #333;border-radius:8px;text-decoration:none;font-weight:600;margin-right:8px;">
+     style="display:inline-block;margin:8px 0;padding:12px 18px;
+            background:linear-gradient(180deg,#1f2937,#111827);
+            color:#fff;border:1px solid #2b3340;
+            border-radius:10px;text-decoration:none;font-weight:700;
+            box-shadow:0 2px 0 rgba(0,0,0,.25), 0 6px 14px rgba(0,0,0,.35);
+            min-width:260px;text-align:center;">
     Open Bot
   </a>
+</p>
+<p align="center">
   <a href="https://t.me/s3yori"
-     style="display:inline-block;padding:10px 16px;background:#0b5fff;color:#fff;border-radius:8px;text-decoration:none;font-weight:600;">
+     style="display:inline-block;margin:8px 0;padding:12px 18px;
+            background:linear-gradient(180deg,#478bff,#0b5fff);
+            color:#fff;border:1px solid rgba(0,0,0,.08);
+            border-radius:10px;text-decoration:none;font-weight:700;
+            box-shadow:0 2px 0 rgba(0,0,0,.15), 0 6px 14px rgba(11,95,255,.25);
+            min-width:260px;text-align:center;">
     Contact Owner
   </a>
 </p>
+
 
 ---
 
