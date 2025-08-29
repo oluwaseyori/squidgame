@@ -7,7 +7,7 @@ This repository explains how to use the **Red Light / Green Light** Telegram gam
 **Owner:** [Seyori](https://t.me/s3yori)
 
 <p align="center">
-  <img src="./assets/hero_640x360.png" alt="Bot description banner" width="640">
+  <img src="https://files.catbox.moe/64yrc4.png" alt="Bot description banner" width="640">
 </p>
 ---
 
@@ -73,11 +73,17 @@ This repository explains how to use the **Red Light / Green Light** Telegram gam
 - Have feedback? Open an issue explaining your group setup and what happened.
 
 ---
-
 <p align="center">
-  <a href="https://t.me/seyorisquidgamebot?startgroup=true"><img src="https://img.shields.io/badge/%E2%9E%95%20Add%20to%20Group-2ea44f?style=for-the-badge" alt="Add to Group"></a>
-  &nbsp;
-  <a href="https://t.me/s3yori"><img src="https://img.shields.io/badge/Contact%20Owner-blue?style=for-the-badge" alt="Contact Owner"></a>
+  <a href="https://t.me/seyorisquidgamebot?startgroup=true"
+     style="display:inline-block;padding:10px 16px;background:#2ea44f;color:#fff;
+            border-radius:8px;text-decoration:none;font-weight:600;margin-right:8px;">
+    ➕ Add to Group
+  </a>
+  <a href="https://t.me/s3yori"
+     style="display:inline-block;padding:10px 16px;background:#0b5fff;color:#fff;
+            border-radius:8px;text-decoration:none;font-weight:600;">
+    Contact Owner
+  </a>
 </p>
 
 ---
