@@ -1,5 +1,0 @@
-Documentation License
-
-Copyright (c) 2025 Seyori
-
-All rights reserved. This repository contains documentation only; it does not include the bot's source code. You may link to or reference this repository, but you may not reproduce the contents for commercial purposes without permission.
