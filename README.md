@@ -1,7 +1,7 @@
 # Red Light • Green Light — Telegram Game Bot (Docs)
 
 <p align="center">
-  <img src="./assets/hero_640x360.png" alt="Bot description banner" width="100%" style="max-width:960px;">
+  <img src="https://files.catbox.moe/64yrc4.png" alt="Bot description banner" width="100%" style="max-width:960px;">
 </p>
 
 This repository explains how to use the **Red Light / Green Light** Telegram game bot in your group chats — no source code is published here.
@@ -39,6 +39,8 @@ This repository explains how to use the **Red Light / Green Light** Telegram gam
 3. Make the bot **Admin** with **Restrict Members** permission.
 4. Use the commands below to run a round.
 
+> Works in groups/supergroups. The owner has configured privacy so the bot can see messages and enforce RED.
+
 ---
 
 ## Commands
@@ -59,6 +61,23 @@ This repository explains how to use the **Red Light / Green Light** Telegram gam
 - Admins cannot be muted by Telegram; admin violations are ignored.
 - Mentions: uses `@username` if present; otherwise a **clickable first name** via `tg://user?id=...`.
 - Switching is randomized with a secure RNG so it can’t be predicted.
+- Live demo link for reference: **[t.me/seyorisquidgamebot](https://t.me/seyorisquidgamebot)**
+
+---
+
+## FAQ
+
+**The bot didn’t mute someone on RED — why?**  
+• They might be an **admin** (admins can’t be restricted).  
+• The bot may lack **Restrict Members**.  
+• They may have sent the message during **GREEN**.  
+• If you just added the bot, ensure it’s admin and try again.
+
+**Does the bot store data?**  
+• It keeps minimal per-round info (session + violator IDs) to produce the summary and basic stats. No message content is stored.
+
+**Can I see the source code?**  
+• Not in this repository. This is **documentation-only**.
 
 ---
 
