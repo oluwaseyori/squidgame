@@ -7,9 +7,8 @@ This repository explains how to use the **Red Light / Green Light** Telegram gam
 **Owner:** [Seyori](https://t.me/s3yori)
 
 <p align="center">
-  <img src="assets/hero_640x360.png" alt="Bot description banner" width="640">
+  <img src="./assets/hero_640x360.png" alt="Bot description banner" width="640">
 </p>
-
 ---
 
 ## What this bot does
